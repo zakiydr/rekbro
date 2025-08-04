@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639845157697",
+    "project_id": "rekbro-app-id",
+    "storage_bucket": "rekbro-app-id.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639845157697:android:0484e21a135bdbb9a8afc0",
+        "android_client_info": {
+          "package_name": "com.example.rekbro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDESXKErNLFeEK1cHmCci46OPjSefCPzmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
